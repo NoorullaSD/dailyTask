@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "907568983347",
+    "project_id": "daily-task-app-422af",
+    "storage_bucket": "daily-task-app-422af.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907568983347:android:470af2f6796da8adc6e246",
+        "android_client_info": {
+          "package_name": "com.dailytask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZTfmTq1JrJkQS7gsm6CyDazFg0p2kgiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
